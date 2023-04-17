@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toy_ambient/static/css/main.b44cbff4.css",
+    "main.js": "/toy_ambient/static/js/main.a0331357.js",
+    "static/js/787.220a0bd0.chunk.js": "/toy_ambient/static/js/787.220a0bd0.chunk.js",
+    "index.html": "/toy_ambient/index.html",
+    "main.b44cbff4.css.map": "/toy_ambient/static/css/main.b44cbff4.css.map",
+    "main.a0331357.js.map": "/toy_ambient/static/js/main.a0331357.js.map",
+    "787.220a0bd0.chunk.js.map": "/toy_ambient/static/js/787.220a0bd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b44cbff4.css",
+    "static/js/main.a0331357.js"
+  ]
+}
