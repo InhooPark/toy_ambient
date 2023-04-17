@@ -2,7 +2,7 @@
   "name": "asmr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://inhoopark.github.io/toy_asmr/",
+  "homepage": "https://inhoopark.github.io/toy_ambient/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
