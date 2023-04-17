@@ -19,7 +19,7 @@ const Volume = ({ sound }) => {
   return (
     <div className="volume">
       <p>{title}</p>
-      <audio id={`${sound}`} controls autoPlay loop src={`./sound/${sound}.mp3`} type="audio/mpeg" />
+      <audio id={`${sound}`} controls autoPlay loop src={`.x/sound/${sound}.mp3`} type="audio/mpeg" />
       <input onChange={volumeFunc} type="range" max="100" value={volume} />
     </div>
   );
